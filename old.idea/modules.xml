@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Revive Church App.iml" filepath="$PROJECT_DIR$/Revive Church App.iml" group="Revive Church App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Revive Church App/app" />
+    </modules>
+  </component>
+</project>
